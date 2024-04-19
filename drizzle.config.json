@@ -1,0 +1,6 @@
+{
+  "dialect": "sqlite3",
+  "out": "./drizzle",
+  "schema": "./src/schema.ts"
+}
+ 
