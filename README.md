@@ -1,2 +1,2 @@
-# seed-dproxy-db
+# seed-proxy-db
 seed-dproxy-db
